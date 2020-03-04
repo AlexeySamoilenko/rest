@@ -1,0 +1,7 @@
+django==3.0.3
+psycopg2==2.8.4
+bcrypt==3.1.7
+drf-yasg==1.17.1
+djangorestframework==3.11.0
+django-widget-tweaks==1.4.5
+#https://getbootstrap.com/docs/4.0/getting-started/download/#compiled-css-and-js
